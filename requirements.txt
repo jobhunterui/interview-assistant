@@ -1,0 +1,11 @@
+# GUI and Windows API
+pywin32>=310
+
+# Input handling
+keyboard>=0.13.5
+
+# System utilities
+psutil>=5.9.5
+
+# Building
+pyinstaller>=5.9.0

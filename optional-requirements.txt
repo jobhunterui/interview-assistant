@@ -1,0 +1,6 @@
+# Optional dependencies - install these manually if needed
+# SpeechRecognition>=3.10.0
+# pyaudio - install via pipwin
+# scikit-learn>=1.3.0
+# numpy>=1.26.0
+# sentence-transformers>=2.2.2
